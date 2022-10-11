@@ -4,6 +4,6 @@
     "dependencies": [
         "boost",
         "cgal",
-        "eigen"
+        "eigen3"
     ]
 }
