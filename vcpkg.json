@@ -1,0 +1,9 @@
+{
+    "name": "city4cfd",
+    "version-string": "0.2.0",
+    "dependencies": [
+        "boost",
+        "cgal",
+        "eigen"
+    ]
+}
